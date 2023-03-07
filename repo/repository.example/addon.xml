@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="ADDON_ID_HERE" name="REPO_NAME_HERE" version="VERSION_NUMBER_HERE" provider-name="YOUR_USERNAME_HERE">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+<addon id="repository.the.skin.archive" name="The Skin Archive" version="1.0.0" provider-name="bbb2204">
+    <extension point="xbmc.addon.repository" name="The Skin Archive">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/bbb2204/The Skin Archive/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/bbb2204/The Skin Archive/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/bbb2204/The Skin Archive/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary>The Skin Archive</summary>
+        <description>A revive of past Kodi/XBMC skins (e.g., Chroma, Aura, etc!)</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
