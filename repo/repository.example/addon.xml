@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.the.skin.archive" name="The Skin Archive" version="1.0.0" provider-name="bbb2204">
-    <extension point="xbmc.addon.repository" name="The Skin Archive">
+<addon id="repository.the.skin.archive" name="Neben Add-on Store" version="7.8.2" provider-name="NebenOfficial">
+    <extension point="xbmc.addon.repository" name="Neben Add-on Store">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/bbb2204/repository.the.skin.archive/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/bbb2204/repository.the.skin.archive/master/repo/zips/addons.xml.md5</checksum>
@@ -8,9 +8,9 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>The Skin Archive</summary>
-        <description>A revive of past Kodi/XBMC skins (e.g., Chroma, Aura, etc!)</description>
-        <disclaimer>This repo may not include ALL of the old skins.</disclaimer>
+        <summary>Neben Add-on Store</summary>
+        <description>The Neben Add-on store contains about 5,000 Add-ons!</description>
+        <disclaimer>If you find any broken Add-ons, you may report the issue to Neben.</disclaimer>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
