@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.the.skin.archive" name="Neben Add-on Store" version="7.8.2" provider-name="NebenOfficial">
+<addon id="repository.neben.addon.store" name="Neben Add-on Store" version="7.8.2" provider-name="RubyOS, AuroraA">
     <extension point="xbmc.addon.repository" name="Neben Add-on Store">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/bbb2204/repository.the.skin.archive/master/repo/zips/addons.xml</info>
